@@ -1,0 +1,123 @@
+## Acetoacetyl_CoA Acetyl_CoA Acetyl_CoA_acetyltransferase Acetyl_CoA_acetyltransferase_gene Acetyl_CoA_acetyltransferase_RNA Cholesterol Cyp51 Cyp51_gene Cyp51_RNA Desmosterol Dimethyl_allyl_pyrophosphate Farnesyl_pyrophosphate FPP_Synthase FPP_Synthase_gene FPP_Synthase_RNA Geranyl_pyrophosphate HMG_CoA HMG_CoA_Reductase HMG_CoA_Reductase_gene HMG_CoA_Reductase_RNA HMG_CoA_Synthase HMG_CoA_Synthase_gene HMG_CoA_Synthase_RNA Insig_SREBP_SCAP Isopentenyl_pyrophosphate Lanosterol Mevalonic_Acid Mevalonyl_pyrophosphate mSREBP pSREBP Septdehydrocholesterol Squaline SREBP_SCAP Statins
+# Acetoacetyl_CoA (Acetyl_CoA, Acetyl_CoA_acetyltransferase, Acetoacetyl_CoA)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Acetyl_CoA (Acetyl_CoA, Acetyl_CoA)
+0, 0
+1, 1
+# Acetyl_CoA_acetyltransferase (Acetyl_CoA_acetyltransferase_RNA, Acetyl_CoA_acetyltransferase)
+0, 0
+1, 1
+# Acetyl_CoA_acetyltransferase_gene (mSREBP, Acetyl_CoA_acetyltransferase_gene)
+0, 0
+1, 1
+# Acetyl_CoA_acetyltransferase_RNA (Acetyl_CoA_acetyltransferase_gene, Acetyl_CoA_acetyltransferase_RNA)
+0, 0
+1, 1
+# Cholesterol (Desmosterol, Septdehydrocholesterol, Cholesterol)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Cyp51 (Cyp51_RNA, Cyp51)
+0, 0
+1, 1
+# Cyp51_gene (mSREBP, Cyp51_gene)
+0, 0
+1, 1
+# Cyp51_RNA (Cyp51_gene, Cyp51_RNA)
+0, 0
+1, 1
+# Desmosterol (Lanosterol, Desmosterol)
+0, 0
+1, 1
+# Dimethyl_allyl_pyrophosphate (Isopentenyl_pyrophosphate, Dimethyl_allyl_pyrophosphate)
+0, 0
+1, 1
+# Farnesyl_pyrophosphate (FPP_Synthase, Geranyl_pyrophosphate, Farnesyl_pyrophosphate)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# FPP_Synthase (FPP_Synthase_RNA, FPP_Synthase)
+0, 0
+1, 1
+# FPP_Synthase_gene (mSREBP, FPP_Synthase_gene)
+0, 0
+1, 1
+# FPP_Synthase_RNA (FPP_Synthase_gene, FPP_Synthase_RNA)
+0, 0
+1, 1
+# Geranyl_pyrophosphate (Dimethyl_allyl_pyrophosphate, Isopentenyl_pyrophosphate, Geranyl_pyrophosphate)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# HMG_CoA (Acetoacetyl_CoA, Acetyl_CoA, HMG_CoA_Synthase, HMG_CoA)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 1
+# HMG_CoA_Reductase (HMG_CoA_Reductase_RNA, Statins, HMG_CoA_Reductase)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 0
+# HMG_CoA_Reductase_gene (mSREBP, HMG_CoA_Reductase_gene)
+0, 0
+1, 1
+# HMG_CoA_Reductase_RNA (HMG_CoA_Reductase_gene, HMG_CoA_Reductase_RNA)
+0, 0
+1, 1
+# HMG_CoA_Synthase (HMG_CoA_Synthase_RNA, HMG_CoA_Synthase)
+0, 0
+1, 1
+# HMG_CoA_Synthase_gene (mSREBP, HMG_CoA_Synthase_gene)
+0, 0
+1, 1
+# HMG_CoA_Synthase_RNA (HMG_CoA_Synthase_gene, HMG_CoA_Synthase_RNA)
+0, 0
+1, 1
+# Insig_SREBP_SCAP (Cholesterol, Insig_SREBP_SCAP)
+0, 1
+1, 0
+# Isopentenyl_pyrophosphate (Mevalonyl_pyrophosphate, Isopentenyl_pyrophosphate)
+0, 0
+1, 1
+# Lanosterol (Squaline, Lanosterol)
+0, 0
+1, 1
+# Mevalonic_Acid (HMG_CoA, HMG_CoA_Reductase, Mevalonic_Acid)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Mevalonyl_pyrophosphate (Mevalonic_Acid, Mevalonyl_pyrophosphate)
+0, 0
+1, 1
+# mSREBP (pSREBP, mSREBP)
+0, 0
+1, 1
+# pSREBP (SREBP_SCAP, pSREBP)
+0, 0
+1, 1
+# Septdehydrocholesterol (Lanosterol, Septdehydrocholesterol)
+0, 0
+1, 1
+# Squaline (Farnesyl_pyrophosphate, Squaline)
+0, 0
+1, 1
+# SREBP_SCAP (Insig_SREBP_SCAP, Statins, SREBP_SCAP)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 0
+# Statins (Statins, Statins)
+0, 0
+1, 1

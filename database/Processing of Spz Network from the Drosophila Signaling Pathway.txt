@@ -1,0 +1,105 @@
+## DAP Easter Gd GNBP1 GNBP3 Grass ModSP Ndl PGRP_SA PGRP_SD Psh Snk Spd SPE Sphinx Spirit Spz Viru_Fact DV_patterning GramN_Bact GramP_Bact Pipe Fungi Nec
+# DAP (GramN_Bact, DAP)
+0, 0
+1, 1
+# Easter (Pipe, Snk, Easter)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Gd (Ndl, Gd)
+0, 0
+1, 1
+# GNBP1 (GramP_Bact, GNBP1)
+0, 0
+1, 1
+# GNBP3 (Fungi, GNBP3)
+0, 0
+1, 1
+# Grass (ModSP, Grass)
+0, 0
+1, 1
+# ModSP (GNBP1, GNBP3, PGRP_SA, PGRP_SD, ModSP)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 1
+0, 0, 1, 1, 1
+0, 1, 0, 0, 1
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 1
+1, 0, 0, 1, 1
+1, 0, 1, 0, 1
+1, 0, 1, 1, 1
+1, 1, 0, 0, 1
+1, 1, 0, 1, 1
+1, 1, 1, 0, 1
+1, 1, 1, 1, 1
+# Ndl (DV_patterning, Ndl)
+0, 0
+1, 1
+# PGRP_SA (GramP_Bact, PGRP_SA)
+0, 0
+1, 1
+# PGRP_SD (DAP, PGRP_SD)
+0, 0
+1, 1
+# Psh (Nec, Viru_Fact, Psh)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# Snk (Gd, Snk)
+0, 0
+1, 1
+# Spd (Grass, Spd)
+0, 0
+1, 1
+# SPE (Easter, Psh, Spd, Sphinx, Spirit, SPE)
+0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 1, 1
+0, 0, 0, 1, 0, 1
+0, 0, 0, 1, 1, 1
+0, 0, 1, 0, 0, 1
+0, 0, 1, 0, 1, 1
+0, 0, 1, 1, 0, 1
+0, 0, 1, 1, 1, 1
+0, 1, 0, 0, 0, 1
+0, 1, 0, 0, 1, 1
+0, 1, 0, 1, 0, 1
+0, 1, 0, 1, 1, 1
+0, 1, 1, 0, 0, 1
+0, 1, 1, 0, 1, 1
+0, 1, 1, 1, 0, 1
+0, 1, 1, 1, 1, 1
+1, 0, 0, 0, 0, 1
+1, 0, 0, 0, 1, 1
+1, 0, 0, 1, 0, 1
+1, 0, 0, 1, 1, 1
+1, 0, 1, 0, 0, 1
+1, 0, 1, 0, 1, 1
+1, 0, 1, 1, 0, 1
+1, 0, 1, 1, 1, 1
+1, 1, 0, 0, 0, 1
+1, 1, 0, 0, 1, 1
+1, 1, 0, 1, 0, 1
+1, 1, 0, 1, 1, 1
+1, 1, 1, 0, 0, 1
+1, 1, 1, 0, 1, 1
+1, 1, 1, 1, 0, 1
+1, 1, 1, 1, 1, 1
+# Sphinx (Grass, Sphinx)
+0, 0
+1, 1
+# Spirit (Grass, Spirit)
+0, 0
+1, 1
+# Spz (SPE, Spz)
+0, 0
+1, 1
+# Viru_Fact (Fungi, GramP_Bact, Viru_Fact)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1

@@ -1,0 +1,132 @@
+## apoptosis apoptosome ATP BAX BCL2 CASP3 CASP8 cFLIP cIAP Cyt_c DISC_FAS DISC_TNF IKK MOMP MPT NFkB NonACD RIP1 RIP1k RIP1ub ROS SMAC survival TNFR XIAP FADD TNF FASL
+# apoptosis (CASP3, apoptosis)
+0, 0
+1, 1
+# apoptosome (ATP, Cyt_c, XIAP, apoptosome)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 1
+1, 1, 1, 0
+# ATP (MPT, ATP)
+0, 1
+1, 0
+# BAX (BCL2, CASP8, BAX)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# BCL2 (NFkB, BCL2)
+0, 0
+1, 1
+# CASP3 (XIAP, apoptosome, CASP3)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# CASP8 (CASP3, DISC-FAS, DISC-TNF, cFLIP, CASP8)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 0
+0, 0, 1, 0, 1
+0, 0, 1, 1, 0
+0, 1, 0, 0, 1
+0, 1, 0, 1, 0
+0, 1, 1, 0, 1
+0, 1, 1, 1, 0
+1, 0, 0, 0, 1
+1, 0, 0, 1, 0
+1, 0, 1, 0, 1
+1, 0, 1, 1, 0
+1, 1, 0, 0, 1
+1, 1, 0, 1, 0
+1, 1, 1, 0, 1
+1, 1, 1, 1, 0
+# cFLIP (NFkB, cFLIP)
+0, 0
+1, 1
+# cIAP (NFkB, SMAC, cIAP, cIAP)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 0
+1, 1, 1, 0
+# Cyt_c (MOMP, Cyt_c)
+0, 0
+1, 1
+# DISC_FAS (FADD, FASL, DISC-FAS)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# DISC_TNF (FADD, TNFR, DISC-TNF)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# IKK (RIP1ub, IKK)
+0, 0
+1, 1
+# MOMP (BAX, MPT, MOMP)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# MPT (BCL2, ROS, MPT)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# NFkB (CASP3, IKK, NFkB)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# NonACD (ATP, NonACD)
+0, 1
+1, 0
+# RIP1 (CASP8, DISC-FAS, TNFR, RIP1)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 1
+0, 1, 1, 1
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 0
+# RIP1k (RIP1, RIP1k)
+0, 0
+1, 1
+# RIP1ub (RIP1, cIAP, RIP1ub)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# ROS (MPT, NFkB, RIP1k, ROS)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 0
+1, 1, 1, 0
+# SMAC (MOMP, SMAC)
+0, 0
+1, 1
+# survival (NFkB, survival)
+0, 0
+1, 1
+# TNFR (TNF, TNFR)
+0, 0
+1, 1
+# XIAP (NFkB, SMAC, XIAP)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 0

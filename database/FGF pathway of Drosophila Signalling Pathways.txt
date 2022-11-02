@@ -1,0 +1,73 @@
+## Aop Btl Drk Dsor1 Gap Htl PLCg Pnt Raf Ras Rl Sos Stumps Targets Ksr Pyr Sty Csw Src42 Bnl Cnk Ths Msk
+# Aop (Rl, Aop)
+0, 1
+1, 0
+# Btl (Bnl, Btl)
+0, 0
+1, 1
+# Drk (Csw, Stumps, Drk)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Dsor1 (Raf, Dsor1)
+0, 0
+1, 1
+# Gap (PLCg, Gap)
+0, 0
+1, 1
+# Htl (Pyr, Ths, Htl)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# PLCg (Drk, PLCg)
+0, 0
+1, 1
+# Pnt (Rl, Pnt)
+0, 0
+1, 1
+# Raf (Cnk, Ksr, Ras, Src42, Raf)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 0
+0, 0, 1, 0, 0
+0, 0, 1, 1, 0
+0, 1, 0, 0, 0
+0, 1, 0, 1, 0
+0, 1, 1, 0, 0
+0, 1, 1, 1, 0
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 1
+# Ras (Gap, Sos, Sty, Ras)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 1
+0, 1, 1, 1
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 1
+1, 1, 1, 1
+# Rl (Dsor1, Msk, Rl)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Sos (Drk, Sos)
+0, 0
+1, 1
+# Stumps (Btl, Htl, Stumps)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Targets (Aop, Pnt, Targets)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0

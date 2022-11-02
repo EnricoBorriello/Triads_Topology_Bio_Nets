@@ -1,0 +1,32 @@
+## Cactus Dif Dorsal MyD88 Pelle Spz Targets Toll Tube Nec Slmb
+# Cactus (Pelle, Slmb, Cactus)
+0, 0, 1
+0, 1, 1
+1, 0, 1
+1, 1, 0
+# Dif (Cactus, Dif)
+0, 1
+1, 0
+# Dorsal (Cactus, Dorsal)
+0, 1
+1, 0
+# MyD88 (Toll, MyD88)
+0, 0
+1, 1
+# Pelle (Tube, Pelle)
+0, 0
+1, 1
+# Spz (Nec, Spz)
+0, 1
+1, 0
+# Targets (Dif, Dorsal, Targets)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Toll (Spz, Toll)
+0, 0
+1, 1
+# Tube (MyD88, Tube)
+0, 0
+1, 1

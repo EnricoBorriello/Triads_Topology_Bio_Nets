@@ -1,0 +1,35 @@
+
+JUN 4, 2021
+
+# I need to fix this bug:
+# It replaces 'IL2' with 5, this way it leaves a '1' in 'IL21'
+# and '51's are left in the output
+
+
+
+
+JUN 4, 2021
+
+
+There are txt file containing all the truth tables. I'm modifying those instead of using that absurd directory structure.
+
+
+
+
+
+
+BRYAN DANIELS
+Tue 6/1/2021 9:38 PM
+Hi Enrico,
+
+ 
+Here are the Dropbox links, but they’re not in the format of adjacency matrices… (I could get you code to create networkx networks if that helps)
+ 
+
+https://www.dropbox.com/sh/uis5f4nr7b2yifl/AAD5IjI1HUNxnH3A8Y1POaCsa?dl=0
+https://www.dropbox.com/sh/83vrrkjv0t5pvli/AAAipL6G367bSxJRFwH7eFHpa?dl=0
+https://www.dropbox.com/sh/weq9y6z40nclm2e/AADuYD_KhBKatiltBdwGMQj-a?dl=0
+
+ 
+
+Bryan

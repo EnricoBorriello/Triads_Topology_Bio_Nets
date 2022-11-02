@@ -1,0 +1,172 @@
+## AP1 Ca Calcin cCbl CRE CREB DAG ERK Fos Fyn Gads Grb2Sos IkB IKKbeta IP3 Itk JNK Jun LAT Lck MEK NFAT Nfkb PAGCsk PKCth PLCg_act PLCg_bind Raf Ras RasGRP1 Rlk Rsk SEK SLP76 TCRbind TCRphos ZAP70 CD45 CD8 TCRlig
+# AP1 (Fos, Jun, AP1)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Ca (IP3, Ca)
+0, 0
+1, 1
+# Calcin (Ca, Calcin)
+0, 0
+1, 1
+# cCbl (ZAP70, cCbl)
+0, 0
+1, 1
+# CRE (CREB, CRE)
+0, 0
+1, 1
+# CREB (Rsk, CREB)
+0, 0
+1, 1
+# DAG (PLCg_act, DAG)
+0, 0
+1, 1
+# ERK (MEK, ERK)
+0, 0
+1, 1
+# Fos (ERK, Fos)
+0, 0
+1, 1
+# Fyn (CD45, Lck, TCRbind, Fyn)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# Gads (LAT, Gads)
+0, 0
+1, 1
+# Grb2Sos (LAT, Grb2Sos)
+0, 0
+1, 1
+# IkB (IKKbeta, IkB)
+0, 1
+1, 0
+# IKKbeta (PKCth, IKKbeta)
+0, 0
+1, 1
+# IP3 (PLCg_act, IP3)
+0, 0
+1, 1
+# Itk (SLP76, ZAP70, Itk)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# JNK (SEK, JNK)
+0, 0
+1, 1
+# Jun (JNK, Jun)
+0, 0
+1, 1
+# LAT (ZAP70, LAT)
+0, 0
+1, 1
+# Lck (CD45, CD8, PAGCsk, Lck)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 1
+1, 1, 1, 0
+# MEK (Raf, MEK)
+0, 0
+1, 1
+# NFAT (Calcin, NFAT)
+0, 0
+1, 1
+# Nfkb (IkB, Nfkb)
+0, 1
+1, 0
+# PAGCsk (Fyn, TCRbind, PAGCsk)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 1
+# PKCth (DAG, PKCth)
+0, 0
+1, 1
+# PLCg_act (Itk, PLCg_bind, Rlk, SLP76, ZAP70, PLCg_act)
+0, 0, 0, 0, 0, 0
+0, 0, 0, 0, 1, 0
+0, 0, 0, 1, 0, 0
+0, 0, 0, 1, 1, 0
+0, 0, 1, 0, 0, 0
+0, 0, 1, 0, 1, 0
+0, 0, 1, 1, 0, 0
+0, 0, 1, 1, 1, 0
+0, 1, 0, 0, 0, 0
+0, 1, 0, 0, 1, 0
+0, 1, 0, 1, 0, 0
+0, 1, 0, 1, 1, 0
+0, 1, 1, 0, 0, 0
+0, 1, 1, 0, 1, 0
+0, 1, 1, 1, 0, 0
+0, 1, 1, 1, 1, 1
+1, 0, 0, 0, 0, 0
+1, 0, 0, 0, 1, 0
+1, 0, 0, 1, 0, 0
+1, 0, 0, 1, 1, 0
+1, 0, 1, 0, 0, 0
+1, 0, 1, 0, 1, 0
+1, 0, 1, 1, 0, 0
+1, 0, 1, 1, 1, 0
+1, 1, 0, 0, 0, 0
+1, 1, 0, 0, 1, 0
+1, 1, 0, 1, 0, 0
+1, 1, 0, 1, 1, 1
+1, 1, 1, 0, 0, 0
+1, 1, 1, 0, 1, 0
+1, 1, 1, 1, 0, 0
+1, 1, 1, 1, 1, 1
+# PLCg_bind (LAT, PLCg_bind)
+0, 0
+1, 1
+# Raf (Ras, Raf)
+0, 0
+1, 1
+# Ras (Grb2Sos, RasGRP1, Ras)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# RasGRP1 (DAG, PKCth, RasGRP1)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# Rlk (Lck, Rlk)
+0, 0
+1, 1
+# Rsk (ERK, Rsk)
+0, 0
+1, 1
+# SEK (PKCth, SEK)
+0, 0
+1, 1
+# SLP76 (Gads, SLP76)
+0, 0
+1, 1
+# TCRbind (TCRlig, cCbl, TCRbind)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 0
+# TCRphos (Fyn, TCRphos)
+0, 0
+1, 1
+# ZAP70 (Lck, TCRphos, cCbl, ZAP70)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 1
+1, 1, 1, 0

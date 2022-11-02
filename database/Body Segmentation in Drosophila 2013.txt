@@ -1,0 +1,89 @@
+## ci CI_protein CIA CIR en EN_protein hh HH_protein PH ptc PTC_protein SMO wg WG_protein hh_external WG_external SLP
+# ci (EN_protein, ci)
+0, 1
+1, 0
+# CI_protein (ci, CI_protein)
+0, 0
+1, 1
+# CIA (CI_protein, PTC_protein, hh_external, CIA)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 0
+1, 1, 1, 1
+# CIR (CI_protein, PTC_protein, hh_external, CIR)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 1
+1, 1, 1, 0
+# en (SLP, WG_external, en)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# EN_protein (en, EN_protein)
+0, 0
+1, 1
+# hh (CIR, EN_protein, hh)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# HH_protein (hh, HH_protein)
+0, 0
+1, 1
+# PH (PTC_protein, hh_external, PH)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# ptc (CIA, CIR, EN_protein, ptc)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 1
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 0
+# PTC_protein (PTC_protein, hh_external, ptc, PTC_protein)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 1
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 0
+1, 1, 1, 1
+# SMO (PTC_protein, hh_external, SMO)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 1
+# wg (CIA, CIR, SLP, wg, wg)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 0
+0, 0, 1, 0, 0
+0, 0, 1, 1, 1
+0, 1, 0, 0, 0
+0, 1, 0, 1, 0
+0, 1, 1, 0, 0
+0, 1, 1, 1, 0
+1, 0, 0, 0, 0
+1, 0, 0, 1, 1
+1, 0, 1, 0, 1
+1, 0, 1, 1, 1
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0
+# WG_protein (wg, WG_protein)
+0, 0
+1, 1

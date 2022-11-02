@@ -1,0 +1,128 @@
+## Akkermansia_ Barnesiella Blautia Clindamycin_ Clostridium_difficile Enterobacteriaceae Enterococcus Lachnospiraceae Lachnospiraceae_other_ Mollicutes Other Coprobacillus
+# Akkermansia_ (Coprobacillus, Akkermansia )
+0, 0
+1, 1
+# Barnesiella (Clindamycin , Lachnospiraceae, Lachnospiraceae_other , Other, Barnesiella)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 1
+0, 0, 1, 1, 1
+0, 1, 0, 0, 1
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0
+# Blautia (Blautia, Coprobacillus, Enterococcus, Blautia)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 1
+0, 1, 1, 1
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# Clindamycin_ (Clindamycin , Clindamycin )
+0, 0
+1, 1
+# Clostridium_difficile (Barnesiella, Clostridium_difficile, Clostridium_difficile)
+0, 0, 0
+0, 1, 1
+1, 0, 0
+1, 1, 0
+# Enterobacteriaceae (Enterobacteriaceae, Enterobacteriaceae)
+0, 0
+1, 1
+# Enterococcus (Blautia, Clostridium_difficile, Coprobacillus, Enterobacteriaceae, Mollicutes, Enterococcus)
+0, 0, 0, 0, 0, 1
+0, 0, 0, 0, 1, 1
+0, 0, 0, 1, 0, 1
+0, 0, 0, 1, 1, 1
+0, 0, 1, 0, 0, 0
+0, 0, 1, 0, 1, 1
+0, 0, 1, 1, 0, 1
+0, 0, 1, 1, 1, 1
+0, 1, 0, 0, 0, 1
+0, 1, 0, 0, 1, 1
+0, 1, 0, 1, 0, 1
+0, 1, 0, 1, 1, 1
+0, 1, 1, 0, 0, 1
+0, 1, 1, 0, 1, 1
+0, 1, 1, 1, 0, 1
+0, 1, 1, 1, 1, 1
+1, 0, 0, 0, 0, 1
+1, 0, 0, 0, 1, 1
+1, 0, 0, 1, 0, 1
+1, 0, 0, 1, 1, 1
+1, 0, 1, 0, 0, 1
+1, 0, 1, 0, 1, 1
+1, 0, 1, 1, 0, 1
+1, 0, 1, 1, 1, 1
+1, 1, 0, 0, 0, 1
+1, 1, 0, 0, 1, 1
+1, 1, 0, 1, 0, 1
+1, 1, 0, 1, 1, 1
+1, 1, 1, 0, 0, 1
+1, 1, 1, 0, 1, 1
+1, 1, 1, 1, 0, 1
+1, 1, 1, 1, 1, 1
+# Lachnospiraceae (Clindamycin , Lachnospiraceae, Lachnospiraceae_other , Other, Lachnospiraceae)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 1
+0, 0, 1, 1, 1
+0, 1, 0, 0, 1
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0
+# Lachnospiraceae_other_ (Clindamycin , Lachnospiraceae, Lachnospiraceae_other , Other, Lachnospiraceae_other )
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 1
+0, 0, 1, 1, 1
+0, 1, 0, 0, 1
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0
+# Mollicutes (Mollicutes, Mollicutes)
+0, 0
+1, 1
+# Other (Clindamycin , Lachnospiraceae, Lachnospiraceae_other , Other, Other)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 1
+0, 0, 1, 1, 1
+0, 1, 0, 0, 1
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0

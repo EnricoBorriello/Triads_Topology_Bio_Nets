@@ -1,0 +1,305 @@
+## Akt AP1 ATF2 C3G Ca CCL20 Cdc42_Rac1 CDK2 CDKN1A CDKN2A CellMigration cFOS cJUN cMYC CREB CRKL CTGF CyclinD DAG DOCK180 ECM EGFR EGR1 Elk1 Erk ETS Fak Grb2 HBEGF IL8 Integrins IP3 JNK Mek Mekk1 Mekk4 Mekk7 MET Mkk3 Mkk4 Mkk6 MLK3 MMP1_10 p38 PAK1 PAK2 PAK3 PI3K PKC Plasmin PLC_g Proliferation PTGS2 Raf Rap1 Ras RSK Shc SOS STAT3 uPA uPAR PAI-1 DUSP1 EGF AKAP12 PTEN HGF
+# Akt (PI3K, PTEN, Akt)
+0, 0, 0
+0, 1, 0
+1, 0, 1
+1, 1, 0
+# AP1 (cFOS, cJUN, AP1)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# ATF2 (JNK, p38, ATF2)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# C3G (CRKL, C3G)
+0, 0
+1, 1
+# Ca (IP3, Ca)
+0, 0
+1, 1
+# CCL20 (Erk, CCL20)
+0, 0
+1, 1
+# Cdc42_Rac1 (Akt, DOCK180, Ras, Cdc42_Rac1)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 1
+# CDK2 (CDKN1A, CDKN2A, CyclinD, CDK2)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 0
+# CDKN1A (STAT3, CDKN1A)
+0, 0
+1, 1
+# CDKN2A (ETS, Elk1, CDKN2A)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# CellMigration (CCL20, CTGF, IL8, PTGS2, CellMigration)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 0
+0, 0, 1, 0, 0
+0, 0, 1, 1, 0
+0, 1, 0, 0, 0
+0, 1, 0, 1, 0
+0, 1, 1, 0, 0
+0, 1, 1, 1, 0
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 1
+# cFOS (Erk, cFOS)
+0, 0
+1, 1
+# cJUN (JNK, p38, cJUN)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# cMYC (Erk, cMYC)
+0, 0
+1, 1
+# CREB (RSK, CREB)
+0, 0
+1, 1
+# CRKL (Grb2, CRKL)
+0, 0
+1, 1
+# CTGF (Erk, p38, CTGF)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# CyclinD (ATF2, Elk1, CyclinD)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# DAG (PLC_g, DAG)
+0, 0
+1, 1
+# DOCK180 (CRKL, DOCK180)
+0, 0
+1, 1
+# ECM (MMP1_10, ECM)
+0, 0
+1, 1
+# EGFR (EGF, HBEGF, EGFR)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# EGR1 (Erk, EGR1)
+0, 0
+1, 1
+# Elk1 (Erk, JNK, Elk1)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Erk (Mek, Erk)
+0, 0
+1, 1
+# ETS (Erk, ETS)
+0, 0
+1, 1
+# Fak (Integrins, PTEN, Rap1, Fak)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 1
+1, 1, 0, 0
+1, 1, 1, 0
+# Grb2 (Shc, Grb2)
+0, 0
+1, 1
+# HBEGF (Erk, p38, HBEGF)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# IL8 (Erk, p38, IL8)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Integrins (ECM, Integrins)
+0, 0
+1, 1
+# IP3 (PLC_g, IP3)
+0, 0
+1, 1
+# JNK (Mekk7, Mkk4, PAK2, JNK)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 1
+1, 0, 0, 0
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# Mek (Mekk1, Raf, Mek)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Mekk1 (Cdc42_Rac1, Mekk1)
+0, 0
+1, 1
+# Mekk4 (Cdc42_Rac1, Mekk4)
+0, 0
+1, 1
+# Mekk7 (Mekk1, Mekk7)
+0, 0
+1, 1
+# MET (HGF, MET)
+0, 0
+1, 1
+# Mkk3 (MLK3, Mkk3)
+0, 0
+1, 1
+# Mkk4 (MLK3, Mekk1, Mekk4, Mkk4)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 1
+0, 1, 1, 1
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# Mkk6 (MLK3, Mkk6)
+0, 0
+1, 1
+# MLK3 (Cdc42_Rac1, MLK3)
+0, 0
+1, 1
+# MMP1_10 (Plasmin, MMP1_10)
+0, 0
+1, 1
+# p38 (DUSP1, Mkk3, Mkk6, PAK1, p38)
+0, 0, 0, 0, 0
+0, 0, 0, 1, 1
+0, 0, 1, 0, 0
+0, 0, 1, 1, 1
+0, 1, 0, 0, 0
+0, 1, 0, 1, 1
+0, 1, 1, 0, 1
+0, 1, 1, 1, 1
+1, 0, 0, 0, 0
+1, 0, 0, 1, 0
+1, 0, 1, 0, 0
+1, 0, 1, 1, 0
+1, 1, 0, 0, 0
+1, 1, 0, 1, 0
+1, 1, 1, 0, 0
+1, 1, 1, 1, 0
+# PAK1 (Cdc42_Rac1, PAK1)
+0, 0
+1, 1
+# PAK2 (Cdc42_Rac1, PAK2)
+0, 0
+1, 1
+# PAK3 (Cdc42_Rac1, PAK3)
+0, 0
+1, 1
+# PI3K (EGFR, Fak, MET, PI3K)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 0
+0, 1, 1, 1
+1, 0, 0, 0
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# PKC (AKAP12, Ca, DAG, PKC)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 1
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 0
+# Plasmin (PAI-1, uPA, Plasmin)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# PLC_g (EGFR, MET, PLC_g)
+0, 0, 0
+0, 1, 1
+1, 0, 1
+1, 1, 1
+# Proliferation (CDK2, CyclinD, Proliferation)
+0, 0, 0
+0, 1, 0
+1, 0, 0
+1, 1, 1
+# PTGS2 (ATF2, cFOS, cJUN, PTGS2)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 1
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# Raf (PAK3, PKC, Ras, Raf)
+0, 0, 0, 0
+0, 0, 1, 0
+0, 1, 0, 0
+0, 1, 1, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 1, 0, 0
+1, 1, 1, 1
+# Rap1 (C3G, Rap1)
+0, 0
+1, 1
+# Ras (SOS, Ras)
+0, 0
+1, 1
+# RSK (Erk, RSK)
+0, 0
+1, 1
+# Shc (EGFR, Fak, MET, Shc)
+0, 0, 0, 0
+0, 0, 1, 1
+0, 1, 0, 1
+0, 1, 1, 1
+1, 0, 0, 1
+1, 0, 1, 1
+1, 1, 0, 1
+1, 1, 1, 1
+# SOS (Grb2, SOS)
+0, 0
+1, 1
+# STAT3 (Erk, STAT3)
+0, 0
+1, 1
+# uPA (uPAR, uPA)
+0, 0
+1, 1
+# uPAR (AP1, uPAR)
+0, 0
+1, 1

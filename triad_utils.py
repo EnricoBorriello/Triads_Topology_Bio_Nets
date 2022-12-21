@@ -137,6 +137,25 @@ def randomize(matrix,iterations):
 
 # ------------------------------------
 
+def triad_significance_profile(matrix, ensemble_size, edge_randomizations):
+# assumptions: no self-loops, all weights = 1
+
+    ensemble = []
+    
+    p = triad_census(matrix)
+
+    for _ in range(ensemble_size):
+        random_matrix = randomize(matrix,edge_randomizations)
+        t = list(triad_census(random_matrix))
+        ensemble.append(t)
+
+        m = np.mean(ensemble,axis = 0)
+        s = np.std(ensemble,axis = 0)
+    
+    return (p-m)/s
+
+# ------------------------------------
+
 def functions():
     return print(
     'triad_census(matrix)\n'
@@ -144,6 +163,9 @@ def functions():
     'edge_list(adjacency_matrix)\n'
     'adjacency_matrix(edge_list,size)\n'
     'swap_edges(edge_list)\n'
-    'randomize(matrix,iterations)\n',
+    'randomize(matrix,iterations)\n'
+    'triad_significance_profile(matrix, ensemble_size, edge_randomizations):\n'
+
+
     'functions()\n'
     )

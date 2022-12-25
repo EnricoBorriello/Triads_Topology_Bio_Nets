@@ -145,15 +145,21 @@ def triad_significance_profile(matrix, ensemble_size, edge_randomizations):
     p = triad_census(matrix)
 
     for _ in range(ensemble_size):
+        profile = []
         random_matrix = randomize(matrix,edge_randomizations)
         t = list(triad_census(random_matrix))
         ensemble.append(t)
 
         m = np.mean(ensemble,axis = 0)
         s = np.std(ensemble,axis = 0)
-    
-    return (p-m)/s
 
+    for i in range(13):
+        if p[i] == m[i]:
+            profile.append(0)
+        else:
+            profile.append(  (p[i]-m[i])/s[i]  )
+
+    return profile
 # ------------------------------------
 
 def functions():

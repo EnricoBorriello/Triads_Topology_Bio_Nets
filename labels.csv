@@ -1,0 +1,72 @@
+,network,k2labels,k4labels
+0,Apoptosis Network_adjacency.txt,0,0
+1,Arabidopsis Thaliana Cell Cycle_adjacency.txt,1,1
+2,B Bronchiseptica And T Retortaeformis Coinfection_adjacency.txt,0,2
+3,B Cell Differentiation_adjacency.txt,0,0
+4,BT474 Breast Cell Line Long-term ErbB Network_adjacency.txt,1,1
+5,BT474 Breast Cell Line Short-term ErbB Network_adjacency.txt,1,1
+6,Body Segmentation In Drosophila 2013_adjacency.txt,1,1
+7,Bordetella Bronchiseptica_adjacency.txt,0,2
+8,Bortezomib Responses In U266 Human Myeloma Cells_adjacency.txt,0,2
+9,Budding Yeast Cell Cycle 2009_adjacency.txt,0,0
+10,Budding Yeast Cell Cycle_adjacency.txt,0,2
+11,CD4 T Cell Signaling_adjacency.txt,0,3
+12,CD4+ T Cell Differentiation And Plasticity_adjacency.txt,0,2
+13,Cardiac Development_adjacency.txt,0,3
+14,Cell Cycle Transcription By Coupled CDK And Network Oscillators_adjacency.txt,1,1
+15,Cholesterol Regulatory Pathway_adjacency.txt,0,3
+16,Colitis-associated Colon Cancer_adjacency.txt,0,2
+17,Cortical Area Development_adjacency.txt,0,0
+18,Death Receptor Signaling_adjacency.txt,1,1
+19,Differentiation Of T Lymphocytes_adjacency.txt,0,0
+20,Egfr & Erbb Signaling_adjacency.txt,1,1
+21,FA BRCA Pathway_adjacency.txt,0,3
+22,FGF Pathway Of Drosophila Signalling Pathways_adjacency.txt,1,1
+23,Fanconi Anemia And Checkpoint Recovery_adjacency.txt,0,0
+24,Fumia.dat,0,0
+25,Glucose Repression Signaling 2009_adjacency.txt,1,1
+26,Guard Cell Abscisic Acid Signaling_adjacency.txt,0,2
+27,HCC1954 Breast Cell Line Long-term ErbB Network_adjacency.txt,1,1
+28,HCC1954 Breast Cell Line Short-term ErbB Network_adjacency.txt,0,2
+29,HGF Signaling In Keratinocytes_adjacency.txt,1,1
+30,HH Pathway Of Drosophila Signaling Pathways_adjacency.txt,1,1
+31,HIV-1 Interactions With T-Cell Signalling Pathway_adjacency.txt,0,3
+32,Human Gonadal Sex Determination_adjacency.txt,0,2
+33,IGVH Mutations In Chronic Lymphocytic Leukemia_adjacency.txt,0,2
+34,IL-1 Signaling_adjacency.txt,0,3
+35,Il-6 Signalling_adjacency.txt,0,3
+36,Influenza A Virus Replication Cycle_adjacency.txt,0,2
+37,Iron Acquisition And Oxidative Stress Response In Aspergillus Fumigatus._adjacency.txt,1,1
+38,Lac Operon_adjacency.txt,1,1
+39,Lymphoid And Myeloid Cell Specification And Transdifferentiation_adjacency.txt,1,3
+40,Lymphopoiesis Regulatory Network_adjacency.txt,0,0
+41,MAPK Cancer Cell Fate Network_adjacency.txt,0,2
+42,Mammalian Cell Cycle 2006_adjacency.txt,0,2
+43,Mammalian Cell Cycle_adjacency.txt,0,3
+44,Metabolic Interactions In The Gut Microbiome_adjacency.txt,0,0
+45,Neurotransmitter Signaling Pathway_adjacency.txt,1,1
+46,Oxidative Stress Pathway_adjacency.txt,0,2
+47,Pc12 Cell Differentiation_adjacency.txt,1,1
+48,Predicting Variabilities In Cardiac Gene_adjacency.txt,0,3
+49,Pro-inflammatory Tumor Microenvironment In Acute Lymphoblastic Leukemia_adjacency.txt,0,2
+50,Processing Of Spz Network From The Drosophila Signaling Pathway_adjacency.txt,1,1
+51,Regulation Of The L-arabinose Operon Of Escherichia Coli_adjacency.txt,1,1
+52,SKBR3 Breast Cell Line Long-term ErbB Network_adjacency.txt,1,1
+53,SKBR3 Breast Cell Line Short-term ErbB Network_adjacency.txt,1,1
+54,Septation Initiation Network_adjacency.txt,0,2
+55,Signal Transduction In Fibroblasts_adjacency.txt,0,0
+56,Signaling In Macrophage Activation_adjacency.txt,0,2
+57,T Cell Differentiation_adjacency.txt,0,2
+58,T Cell Receptor Signaling_adjacency.txt,0,3
+59,T-Cell Signaling 2006_adjacency.txt,0,3
+60,T-LGL Survival Network 2008_adjacency.txt,0,2
+61,T-LGL Survival Network 2011 Reduced Network_adjacency.txt,0,2
+62,T-LGL Survival Network 2011_adjacency.txt,0,2
+63,TOL Regulatory Network_adjacency.txt,1,1
+64,Toll Pathway Of Drosophila Signaling Pathway_adjacency.txt,1,1
+65,Treatment Of Castration-Resistant Prostate Cancer_adjacency.txt,1,1
+66,Trichostrongylus Retortaeformis_adjacency.txt,0,2
+67,Tumour Cell Invasion And Migration_adjacency.txt,0,0
+68,Vegf Pathway Of Drosophila Signaling Pathway_adjacency.txt,1,1
+69,Wg Pathway Of Drosophila Signalling Pathways_adjacency.txt,1,1
+70,Yeast Apoptosis_adjacency.txt,0,2

@@ -1,62 +1,71 @@
--Bortezomib Responses in U266 Human Myeloma Cells.txt
--IGVH mutations in chronic lymphocytic leukemia..txt
-Apoptosis Network.txt
-B bronchiseptica and T retortaeformis coinfection.txt
-B cell differentiation.txt
-BT474 Breast Cell Line Long-term ErbB Network.txt
-BT474 Breast Cell Line Short-term ErbB Network.txt
-Body Segmentation in Drosophila 2013.txt
-Bordetella bronchiseptica.txt
-Budding Yeast Cell Cycle 2009.txt
-Budding Yeast Cell Cycle.txt
-CD4 T cell signaling.txt
-CD4+ T Cell Differentiation and Plasticity.txt
-Cardiac development.txt
-Cell Cycle Transcription by Coupled CDK and Network Oscillators.txt
-Cholesterol Regulatory Pathway.txt
-Colitis-associated colon cancer.txt
-Cortical Area Development.txt
-Death Receptor Signaling.txt
-Differentiation of T lymphocytes.txt
-EGFR & ErbB Signaling.txt
-ErbB (1-4) Receptor Signaling.txt
-FA BRCA pathway.txt
-FGF pathway of Drosophila Signalling Pathways.txt
-Fanconi anemia and checkpoint recovery.txt
-Glucose Repression Signaling 2009.txt
-Guard Cell Abscisic Acid Signaling.txt
-HCC1954 Breast Cell Line Long-term ErbB Network.txt
-HCC1954 Breast Cell Line Short-term ErbB Network.txt
-HGF Signaling in Keratinocytes.txt
-HH Pathway of Drosophila Signaling Pathways.txt
-HIV-1 interactions with T-Cell Signalling Pathway.txt
-IL-1 Signaling.txt
-IL-6 Signalling.txt
-Influenza A Virus Replication Cycle.txt
-Iron acquisition and oxidative stress response in aspergillus fumigatus..txt
-Lac Operon.txt
-Mammalian Cell Cycle 2006.txt
-Mammalian Cell Cycle.txt
-Metabolic Interactions in the Gut Microbiome.txt
-Oxidative Stress Pathway.txt
-PC12 Cell Differentiation.txt
-Predicting Variabilities in Cardiac Gene.txt
-Pro-inflammatory Tumor Microenvironment in Acute Lymphoblastic Leukemia.txt
-Processing of Spz Network from the Drosophila Signaling Pathway.txt
-SKBR3 Breast Cell Line Long-term ErbB Network.txt
-SKBR3 Breast Cell Line Short-term ErbB Network.txt
-Septation Initiation Network.txt
-Signal Transduction in Fibroblasts.txt
-Signaling in Macrophage Activation.txt
-T Cell Receptor Signaling.txt
-T cell differentiation.txt
-T-Cell Signaling 2006.txt
-T-LGL Survival Network 2008.txt
-T-LGL Survival Network 2011.txt
-TOL Regulatory Network.txt
-Toll Pathway of Drosophila Signaling Pathway.txt
-Trichostrongylus retortaeformis.txt
-Tumour Cell Invasion and Migration.txt
-VEGF Pathway of Drosophila Signaling Pathway.txt
-Wg Pathway of Drosophila Signalling Pathways.txt
-Yeast Apoptosis.txt
+Apoptosis Network_adjacency.txt
+Arabidopsis Thaliana Cell Cycle_adjacency.txt
+B Bronchiseptica And T Retortaeformis Coinfection_adjacency.txt
+B Cell Differentiation_adjacency.txt
+BT474 Breast Cell Line Long-term ErbB Network_adjacency.txt
+BT474 Breast Cell Line Short-term ErbB Network_adjacency.txt
+Body Segmentation In Drosophila 2013_adjacency.txt
+Bordetella Bronchiseptica_adjacency.txt
+Bortezomib Responses In U266 Human Myeloma Cells_adjacency.txt
+Budding Yeast Cell Cycle 2009_adjacency.txt
+Budding Yeast Cell Cycle_adjacency.txt
+CD4 T Cell Signaling_adjacency.txt
+CD4+ T Cell Differentiation And Plasticity_adjacency.txt
+Cardiac Development_adjacency.txt
+Cell Cycle Transcription By Coupled CDK And Network Oscillators_adjacency.txt
+Cholesterol Regulatory Pathway_adjacency.txt
+Colitis-associated Colon Cancer_adjacency.txt
+Cortical Area Development_adjacency.txt
+Death Receptor Signaling_adjacency.txt
+Differentiation Of T Lymphocytes_adjacency.txt
+Egfr & Erbb Signaling_adjacency.txt
+FA BRCA Pathway_adjacency.txt
+FGF Pathway Of Drosophila Signalling Pathways_adjacency.txt
+Fanconi Anemia And Checkpoint Recovery_adjacency.txt
+Fumia.dat
+Glucose Repression Signaling 2009_adjacency.txt
+Guard Cell Abscisic Acid Signaling_adjacency.txt
+HCC1954 Breast Cell Line Long-term ErbB Network_adjacency.txt
+HCC1954 Breast Cell Line Short-term ErbB Network_adjacency.txt
+HGF Signaling In Keratinocytes_adjacency.txt
+HH Pathway Of Drosophila Signaling Pathways_adjacency.txt
+HIV-1 Interactions With T-Cell Signalling Pathway_adjacency.txt
+Human Gonadal Sex Determination_adjacency.txt
+IGVH Mutations In Chronic Lymphocytic Leukemia_adjacency.txt
+IL-1 Signaling_adjacency.txt
+Il-6 Signalling_adjacency.txt
+Influenza A Virus Replication Cycle_adjacency.txt
+Iron Acquisition And Oxidative Stress Response In Aspergillus Fumigatus._adjacency.txt
+Lac Operon_adjacency.txt
+Lymphoid And Myeloid Cell Specification And Transdifferentiation_adjacency.txt
+Lymphopoiesis Regulatory Network_adjacency.txt
+MAPK Cancer Cell Fate Network_adjacency.txt
+Mammalian Cell Cycle 2006_adjacency.txt
+Mammalian Cell Cycle_adjacency.txt
+Metabolic Interactions In The Gut Microbiome_adjacency.txt
+Neurotransmitter Signaling Pathway_adjacency.txt
+Oxidative Stress Pathway_adjacency.txt
+Pc12 Cell Differentiation_adjacency.txt
+Predicting Variabilities In Cardiac Gene_adjacency.txt
+Pro-inflammatory Tumor Microenvironment In Acute Lymphoblastic Leukemia_adjacency.txt
+Processing Of Spz Network From The Drosophila Signaling Pathway_adjacency.txt
+Regulation Of The L-arabinose Operon Of Escherichia Coli_adjacency.txt
+SKBR3 Breast Cell Line Long-term ErbB Network_adjacency.txt
+SKBR3 Breast Cell Line Short-term ErbB Network_adjacency.txt
+Septation Initiation Network_adjacency.txt
+Signal Transduction In Fibroblasts_adjacency.txt
+Signaling In Macrophage Activation_adjacency.txt
+T Cell Differentiation_adjacency.txt
+T Cell Receptor Signaling_adjacency.txt
+T-Cell Signaling 2006_adjacency.txt
+T-LGL Survival Network 2008_adjacency.txt
+T-LGL Survival Network 2011 Reduced Network_adjacency.txt
+T-LGL Survival Network 2011_adjacency.txt
+TOL Regulatory Network_adjacency.txt
+Toll Pathway Of Drosophila Signaling Pathway_adjacency.txt
+Treatment Of Castration-Resistant Prostate Cancer_adjacency.txt
+Trichostrongylus Retortaeformis_adjacency.txt
+Tumour Cell Invasion And Migration_adjacency.txt
+Vegf Pathway Of Drosophila Signaling Pathway_adjacency.txt
+Wg Pathway Of Drosophila Signalling Pathways_adjacency.txt
+Yeast Apoptosis_adjacency.txt
